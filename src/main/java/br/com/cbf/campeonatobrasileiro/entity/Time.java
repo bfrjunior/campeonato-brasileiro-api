@@ -19,7 +19,7 @@ public class Time {
     private String nome;
     @Column(length = 50)
     private String estadio;
-    @Column(length = 3)
+    @Column(length = 5)
     private String sigla;
     @Column(length = 2)
     private String uf;
