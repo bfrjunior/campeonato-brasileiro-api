@@ -21,4 +21,8 @@ public class TimeService {
     public List<Time> listarTimes() {
         return repository.findAll();
     }
+
+    public Time obterTime(Integer id) {
+        return repository.findById(id).get();
+    }
 }
