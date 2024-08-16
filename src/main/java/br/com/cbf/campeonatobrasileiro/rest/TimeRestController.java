@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.cbf.campeonatobrasileiro.entity.Time;
@@ -32,8 +33,8 @@ public class TimeRestController {
         return ResponseEntity.ok().body(timeService.obterTime(id));
     }
 
-    @PostMapping
-    public ResponseEntity<Void> cadastrarTime(Time time) {
+    @PostMapping("/times")
+    public ResponseEntity<Void> cadastrarTime(@RequestBody Time time) {
         timeService.cadastrarTime(time);
         return ResponseEntity.status(HttpStatus.CREATED).build();
     }

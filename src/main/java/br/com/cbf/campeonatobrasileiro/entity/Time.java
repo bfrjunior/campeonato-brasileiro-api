@@ -15,9 +15,9 @@ public class Time {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
-    @Column(length = 20)
+    @Column(length = 50)
     private String nome;
-    @Column(length = 2)
+    @Column(length = 50)
     private String estadio;
     @Column(length = 3)
     private String sigla;
