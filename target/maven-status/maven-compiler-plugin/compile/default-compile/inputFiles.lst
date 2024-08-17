@@ -1,0 +1,16 @@
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\CampeonatobrasileiroApplication.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\dto\AtualizarJogoDTO.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\dto\ClassificacaoDTO.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\dto\ClassificacaoTimeDTO.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\dto\JogoDTO.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\dto\NovoTimeDTO.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\dto\TimeDTO.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\entity\Jogo.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\entity\Time.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\repository\JogoRepository.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\repository\TimeRepository.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\rest\ApiOperation.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\rest\JogoRestController.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\rest\TimeRestController.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\service\JogoService.java
+C:\Users\Fernando\Desktop\Projects\campeonatobrasileiro\src\main\java\br\com\cbf\campeonatobrasileiro\service\TimeService.java

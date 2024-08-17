@@ -1,0 +1,16 @@
+br\com\cbf\campeonatobrasileiro\service\TimeService.class
+br\com\cbf\campeonatobrasileiro\dto\NovoTimeDTO.class
+br\com\cbf\campeonatobrasileiro\entity\Time.class
+br\com\cbf\campeonatobrasileiro\repository\TimeRepository.class
+br\com\cbf\campeonatobrasileiro\rest\JogoRestController.class
+br\com\cbf\campeonatobrasileiro\dto\JogoDTO.class
+br\com\cbf\campeonatobrasileiro\repository\JogoRepository.class
+br\com\cbf\campeonatobrasileiro\dto\ClassificacaoTimeDTO.class
+br\com\cbf\campeonatobrasileiro\dto\AtualizarJogoDTO.class
+br\com\cbf\campeonatobrasileiro\entity\Jogo.class
+br\com\cbf\campeonatobrasileiro\CampeonatobrasileiroApplication.class
+br\com\cbf\campeonatobrasileiro\rest\ApiOperation.class
+br\com\cbf\campeonatobrasileiro\dto\TimeDTO.class
+br\com\cbf\campeonatobrasileiro\dto\ClassificacaoDTO.class
+br\com\cbf\campeonatobrasileiro\rest\TimeRestController.class
+br\com\cbf\campeonatobrasileiro\service\JogoService.class
